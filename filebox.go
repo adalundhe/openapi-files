@@ -1,4 +1,4 @@
-package swaggerFiles
+package openapiFiles
 
 import (
 	"golang.org/x/net/webdav"
