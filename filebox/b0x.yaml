@@ -1,4 +1,4 @@
-pkg: swaggerFiles
+pkg: openapiFiles
 
 dest: "./"
 
